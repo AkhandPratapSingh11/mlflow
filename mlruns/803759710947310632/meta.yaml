@@ -1,0 +1,6 @@
+artifact_location: file:///home/akhand/Desktop/mlflow/src/mlruns/803759710947310632
+creation_time: 1744178150205
+experiment_id: '803759710947310632'
+last_update_time: 1744178150205
+lifecycle_stage: active
+name: langchain_groq_demo

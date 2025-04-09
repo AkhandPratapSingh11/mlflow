@@ -1,0 +1,15 @@
+artifact_uri: file:///home/akhand/Desktop/mlflow/src/mlruns/0/3c76804b7434425a920db6609ce216dc/artifacts
+end_time: 1744174228238
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c76804b7434425a920db6609ce216dc
+run_name: blushing-mole-226
+run_uuid: 3c76804b7434425a920db6609ce216dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744174228208
+status: 3
+tags: []
+user_id: akhand

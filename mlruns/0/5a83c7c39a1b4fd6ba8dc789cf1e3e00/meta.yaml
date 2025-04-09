@@ -1,0 +1,15 @@
+artifact_uri: file:///home/akhand/Desktop/mlflow/src/mlruns/0/5a83c7c39a1b4fd6ba8dc789cf1e3e00/artifacts
+end_time: 1744174400524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a83c7c39a1b4fd6ba8dc789cf1e3e00
+run_name: melodic-conch-748
+run_uuid: 5a83c7c39a1b4fd6ba8dc789cf1e3e00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744174400507
+status: 3
+tags: []
+user_id: akhand

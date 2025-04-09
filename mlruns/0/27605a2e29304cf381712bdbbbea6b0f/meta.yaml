@@ -1,0 +1,15 @@
+artifact_uri: file:///home/akhand/Desktop/mlflow/src/mlruns/0/27605a2e29304cf381712bdbbbea6b0f/artifacts
+end_time: 1744174429123
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27605a2e29304cf381712bdbbbea6b0f
+run_name: upbeat-ant-375
+run_uuid: 27605a2e29304cf381712bdbbbea6b0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744174429099
+status: 3
+tags: []
+user_id: akhand

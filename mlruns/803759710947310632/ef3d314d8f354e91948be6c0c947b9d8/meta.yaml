@@ -1,0 +1,15 @@
+artifact_uri: file:///home/akhand/Desktop/mlflow/src/mlruns/803759710947310632/ef3d314d8f354e91948be6c0c947b9d8/artifacts
+end_time: 1744178157352
+entry_point_name: ''
+experiment_id: '803759710947310632'
+lifecycle_stage: active
+run_id: ef3d314d8f354e91948be6c0c947b9d8
+run_name: hilarious-moth-371
+run_uuid: ef3d314d8f354e91948be6c0c947b9d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744178150570
+status: 3
+tags: []
+user_id: akhand

@@ -1,0 +1,11 @@
+MLflow is an open-source platform designed to manage the end-to-end machine learning lifecycle. It provides tools to help data scientists and machine learning engineers to track experiments, package code into reproducible runs, and share and deploy models. MLflow consists of four main components:
+
+1. **MLflow Tracking**: This component allows you to log and query experiments to compare runs and track parameters, metrics, and artifacts (like model checkpoints) that are generated during the training of machine learning models.
+
+2. **MLflow Projects**: MLflow Projects allow you to define and execute your code in a reproducible and portable way. A project is a format for packaging machine learning code in a reusable and reproducible form, complete with all its dependencies and parameters.
+
+3. **MLflow Models**: This component provides a specification for packaging machine learning models that can be deployed across varied model serving and inference platforms. It supports a wide range of machine learning frameworks and libraries, enabling the models to be version-controlled and managed effectively.
+
+4. **MLflow Model Serving**: MLflow provides tools for serving models in a production environment. This includes a model server that can serve multiple models and can be deployed in a variety of environments including Kubernetes and Docker.
+
+MLflow is designed to be framework-agnostic and can work with various machine learning libraries and frameworks such as TensorFlow, PyTorch, scikit-learn, and many others. It helps in streamlining machine learning workflows, making it easier to manage the different stages of model development, experimentation, and deployment.

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/akhand/Desktop/mlflow/src/mlruns/0/fb9f6a5f94f44f3eaa7eba654754a776/artifacts
+end_time: 1744174524126
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb9f6a5f94f44f3eaa7eba654754a776
+run_name: dashing-grub-346
+run_uuid: fb9f6a5f94f44f3eaa7eba654754a776
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744174524103
+status: 3
+tags: []
+user_id: akhand

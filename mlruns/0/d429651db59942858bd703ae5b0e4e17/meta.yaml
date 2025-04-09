@@ -1,0 +1,15 @@
+artifact_uri: file:///home/akhand/Desktop/mlflow/src/mlruns/0/d429651db59942858bd703ae5b0e4e17/artifacts
+end_time: 1744174284110
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d429651db59942858bd703ae5b0e4e17
+run_name: resilient-hawk-263
+run_uuid: d429651db59942858bd703ae5b0e4e17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744174284080
+status: 3
+tags: []
+user_id: akhand

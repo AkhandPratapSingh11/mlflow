@@ -1,0 +1,15 @@
+artifact_uri: file:///home/akhand/Desktop/mlflow/src/mlruns/0/f7582de67d2c48e2a8e32f7a8e9c122d/artifacts
+end_time: 1744177948959
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7582de67d2c48e2a8e32f7a8e9c122d
+run_name: adorable-smelt-996
+run_uuid: f7582de67d2c48e2a8e32f7a8e9c122d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744177946969
+status: 4
+tags: []
+user_id: akhand

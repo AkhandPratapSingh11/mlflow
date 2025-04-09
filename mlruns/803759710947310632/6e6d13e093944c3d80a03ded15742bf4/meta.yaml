@@ -1,0 +1,15 @@
+artifact_uri: file:///home/akhand/Desktop/mlflow/src/mlruns/803759710947310632/6e6d13e093944c3d80a03ded15742bf4/artifacts
+end_time: 1744178366953
+entry_point_name: ''
+experiment_id: '803759710947310632'
+lifecycle_stage: active
+run_id: 6e6d13e093944c3d80a03ded15742bf4
+run_name: abundant-hound-251
+run_uuid: 6e6d13e093944c3d80a03ded15742bf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744178365044
+status: 3
+tags: []
+user_id: akhand

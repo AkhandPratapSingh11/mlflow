@@ -1,0 +1,15 @@
+artifact_uri: file:///home/akhand/Desktop/mlflow/src/mlruns/0/2d38d8d51a61460ebd26f9287465e22e/artifacts
+end_time: 1744178026978
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d38d8d51a61460ebd26f9287465e22e
+run_name: skittish-snail-682
+run_uuid: 2d38d8d51a61460ebd26f9287465e22e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744178025113
+status: 4
+tags: []
+user_id: akhand

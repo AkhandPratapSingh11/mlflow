@@ -1,0 +1,15 @@
+artifact_uri: file:///home/akhand/Desktop/mlflow/src/mlruns/0/63f8322fe4b24a44bf749ebc8de6a720/artifacts
+end_time: 1744174492589
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63f8322fe4b24a44bf749ebc8de6a720
+run_name: likeable-cod-682
+run_uuid: 63f8322fe4b24a44bf749ebc8de6a720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744174492572
+status: 3
+tags: []
+user_id: akhand

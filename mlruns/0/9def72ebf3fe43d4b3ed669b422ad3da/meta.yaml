@@ -1,0 +1,15 @@
+artifact_uri: file:///home/akhand/Desktop/mlflow/src/mlruns/0/9def72ebf3fe43d4b3ed669b422ad3da/artifacts
+end_time: 1744174745437
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9def72ebf3fe43d4b3ed669b422ad3da
+run_name: respected-swan-943
+run_uuid: 9def72ebf3fe43d4b3ed669b422ad3da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744174745422
+status: 3
+tags: []
+user_id: akhand
